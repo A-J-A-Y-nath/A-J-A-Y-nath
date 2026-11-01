@@ -159,7 +159,7 @@ A mock-test platform project focused on interactive practice and AI-assisted fun
 
 ---
 
-## 📚 Currently learning & exploring
+## 📚 CIRTIFICATIONS
 
 <div align="center">
 
