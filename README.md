@@ -1,172 +1,222 @@
 
 <div align="center">
 
-<img src="assets/holographic-cyan-banner.png" width="100%" alt="Ajay's Holographic Developer Banner" />
+<img width="100%" src="assets/holographic-cyan-banner.png" alt="Ajay — Holographic Developer" />
 
-# M S Ajaynath (Ajay)
+<a href="https://github.com/A-J-A-Y-nath">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ajay+%F0%9F%91%8B;MCA+Student+%7C+Software+Developer;Full-Stack+%7C+AI+%7C+IoT;Turning+ideas+into+working+software" alt="Animated introduction" />
+</a>
 
-### MCA Student | Aspiring Software Developer
+<br/>
 
-**Building practical applications with code, AI, and connected technology.**
+<a href="https://github.com/A-J-A-Y-nath"><img src="https://img.shields.io/badge/GitHub-0B1224?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://www.linkedin.com/in/m-s-ajaynath-8481992a2/"><img src="https://img.shields.io/badge/LinkedIn-0B1224?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
+<a href="mailto:ajaynath1516@gmail.com"><img src="https://img.shields.io/badge/Email-0B1224?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-A--J--A--Y--nath-0b1224?style=for-the-badge&logo=github)](https://github.com/A-J-A-Y-nath)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-087ea4?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-s-ajaynath-8481992a2/)
-[![Email](https://img.shields.io/badge/Email-Contact-00c8ee?style=for-the-badge&logo=gmail)](mailto:ajaynath1516@gmail.com)
+<br/><br/>
 
-📍 Palakkad, Kerala, India  
-🎓 MCA — Rajiv Gandhi Institute of Technology, Kottayam  
-🎯 Expected Graduation: 2027  
-💼 Open to internships and full-time opportunities
+*Building practical applications with code, AI, and connected technology.*
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm an MCA student interested in software engineering, full-stack development, artificial intelligence, machine learning, Android development, and the Internet of Things.
-
-I enjoy turning ideas into practical applications and learning by building projects.
-
-- 💻 Interested in full-stack and application development.
-- 🤖 Exploring AI, machine learning, and AI-powered applications.
-- 📱 Interested in Android development and connected devices.
-- 🔌 Exploring IoT applications using ESP-12E.
-- 🚀 Continuously improving my programming and problem-solving skills.
-
----
-
-## ⚡ Tech Stack
-
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0B1224?style=for-the-badge&logo=python&logoColor=4CC9F0" />
-  <img src="https://img.shields.io/badge/JavaScript-0B1224?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Java-0B1224?style=for-the-badge&logo=openjdk&logoColor=F89820" />
-  <img src="https://img.shields.io/badge/C-0B1224?style=for-the-badge&logo=c&logoColor=A8C7FA" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0B1224?style=for-the-badge&logo=cplusplus&logoColor=9BC4FF" />
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0B1224?style=for-the-badge&logo=html5&logoColor=FF7043" />
-  <img src="https://img.shields.io/badge/CSS3-0B1224?style=for-the-badge&logo=css3&logoColor=42A5F5" />
-  <img src="https://img.shields.io/badge/JavaScript-0B1224?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-0B1224?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### Backend Development & Databases
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-0B1224?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Node.js-0B1224?style=for-the-badge&logo=nodedotjs&logoColor=8BC34A" />
-  <img src="https://img.shields.io/badge/Express.js-0B1224?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0B1224?style=for-the-badge&logo=postgresql&logoColor=8AB4F8" />
-  <img src="https://img.shields.io/badge/MySQL-0B1224?style=for-the-badge&logo=mysql&logoColor=4FC3F7" />
-</p>
-
-### AI, Mobile Development & IoT
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-0B1224?style=for-the-badge&logo=scikitlearn&logoColor=F9A825" />
-  <img src="https://img.shields.io/badge/Android-0B1224?style=for-the-badge&logo=android&logoColor=8BC34A" />
-  <img src="https://img.shields.io/badge/IoT-0B1224?style=for-the-badge&logo=esphome&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/ESP--12E-0B1224?style=for-the-badge&logo=espressif&logoColor=FF6F00" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-0B1224?style=for-the-badge&logo=git&logoColor=FF7043" />
-  <img src="https://img.shields.io/badge/GitHub-0B1224?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Docker-0B1224?style=for-the-badge&logo=docker&logoColor=2496ED" />
-</p>
-
-**Self-assessed skill level:** Intermediate
-
----
-
-## 🚀 Featured Projects
-
-### 1. ⚡ Smart Automatic Attendance System
-
-An attendance system project exploring mobile application development, a backend service, and IoT-based device integration.
-
-**Technologies:** Android, Python, Flask, PostgreSQL, ESP-12E
-
-[![View Repository](https://img.shields.io/badge/View_Repository-00C8EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-J-A-Y-nath/Smart-Automatic-Attendance-System)
-
-### 2. 📰 Fake News Detection
-
-A machine-learning project that explores text processing and classification for fake-news detection.
-
-**Technologies:** Python, Flask, TF-IDF, scikit-learn
-
-[![View Repository](https://img.shields.io/badge/View_Repository-00C8EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-J-A-Y-nath/Fake-News-Detection)
-
-### 3. 🧠 StudySphere AI
-
-An AI-assisted study application project focused on a web interface and integration with multiple AI providers.
-
-**Technologies:** React, JavaScript, AI integrations
-
-[![View Repository](https://img.shields.io/badge/View_Repository-00C8EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-J-A-Y-nath/StudySphereAi)
-
-### 4. 🎯 LevelUp — AI Mock Test Platform
-
-A web-based mock-test platform project designed around an interactive frontend and backend services.
-
-**Technologies:** React, Vite, Node.js, Express, OpenRouter
-
-[![View Repository](https://img.shields.io/badge/View_Repository-00C8EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-J-A-Y-nath/LevelUp)
-
----
-
-## 📜 Certifications
-
-- **Introduction to Machine Learning** — NPTEL
-- **Introduction to IoT** — NPTEL
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=A-J-A-Y-nath&show_icons=true&hide_border=true&bg_color=0B1224&title_color=00D9FF&icon_color=00D9FF&text_color=D8E9FF" alt="GitHub Statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-J-A-Y-nath&layout=compact&hide_border=true&bg_color=0B1224&title_color=00D9FF&text_color=D8E9FF" alt="Most Used Languages" />
-
-<img src="https://streak-stats.demolab.com?user=A-J-A-Y-nath&hide_border=true&background=0B1224&ring=00D9FF&fire=00D9FF&currStreakLabel=D8E9FF&sideLabels=D8E9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FA9C7" alt="GitHub Contribution Streak" />
+📍 Palakkad, Kerala, India &nbsp; • &nbsp; 🎓 MCA Student &nbsp; • &nbsp; 🎯 Class of 2027
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## ◈ ABOUT ME
 
-I'm interested in software development opportunities, internships, and collaborative projects.
+<table>
+<tr>
+<td width="65%" valign="top">
 
-<p>
-  <a href="https://github.com/A-J-A-Y-nath">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0B1224?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/m-s-ajaynath-8481992a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-087ea4?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ajaynath1516@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00C8EE?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+### `01` — Developer Profile
+
+I'm **M S Ajaynath (Ajay)**, an MCA student at Rajiv Gandhi Institute of Technology, Kottayam, interested in building practical software solutions.
+
+- 💻 Full-stack and application development
+- 🤖 AI and machine learning
+- 📱 Android application development
+- 🔌 IoT and connected devices
+- 🧠 Learning through hands-on projects
+
+**Current focus:** Building useful applications while strengthening my software engineering skills.
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=A-J-A-Y-nath&show_icons=true&hide_border=true&bg_color=0D1526&title_color=00E5FF&icon_color=7C4DFF&text_color=DDEBFF&rank_icon=github" width="100%" alt="GitHub overview" />
+
+</td>
+</tr>
+</table>
 
 ---
 
+## ◈ TECH ARSENAL
+
 <div align="center">
 
-### ✨ Learn continuously. Build practically. Improve every day.
+### `02` — Languages
 
-<sub>⚡ A little yellow Easter egg belongs in the holographic banner.</sub>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,html,css&theme=dark" alt="Programming languages" />
+
+### `03` — Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask&theme=dark" alt="Development technologies" />
+
+### `04` — Data, Devices & Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,androidstudio,docker,git,github&theme=dark" alt="Databases and tools" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-111C31?style=for-the-badge&logo=scikitlearn&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/IoT%20%7C%20ESP--12E-111C31?style=for-the-badge&logo=espressif&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Intermediate-111C31?style=for-the-badge&logo=target&logoColor=00E5FF" />
+
+</div>
+
+---
+
+## ◈ FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Smart Automatic Attendance System
+
+<img src="https://img.shields.io/badge/IoT-00D9FF?style=flat-square&logo=espressif&logoColor=black" />
+<img src="https://img.shields.io/badge/Android-111C31?style=flat-square&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Flask-111C31?style=flat-square&logo=flask&logoColor=white" />
+
+Exploring automated attendance using an Android app, backend services, and an ESP-12E device.
+
+**Focus:** Mobile + backend + connected hardware.
+
+[**Explore repository ↗**](https://github.com/A-J-A-Y-nath/Smart-Automatic-Attendance-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 Fake News Detection
+
+<img src="https://img.shields.io/badge/Python-111C31?style=flat-square&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Machine%20Learning-111C31?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+
+A machine-learning project focused on text processing and classification for fake-news detection.
+
+**Focus:** TF-IDF, text features, and classification.
+
+[**Explore repository ↗**](https://github.com/A-J-A-Y-nath/Fake-News-Detection)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 StudySphere AI
+
+<img src="https://img.shields.io/badge/React-111C31?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/AI-111C31?style=flat-square&logo=openai&logoColor=00E5FF" />
+
+An AI-assisted study application project built around a web interface and multiple AI providers.
+
+**Focus:** Study workflows and AI integration.
+
+[**Explore repository ↗**](https://github.com/A-J-A-Y-nath/StudySphereAi)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 LevelUp — AI Mock Test Platform
+
+<img src="https://img.shields.io/badge/React-111C31?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-111C31?style=flat-square&logo=nodedotjs&logoColor=83CD29" />
+<img src="https://img.shields.io/badge/OpenRouter-111C31?style=flat-square" />
+
+A web-based mock-test platform project using a React frontend and Node/Express backend.
+
+**Focus:** Online practice and AI-assisted testing.
+
+[**Explore repository ↗**](https://github.com/A-J-A-Y-nath/LevelUp)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECTS-A%20mix%20of%20completed%20and%20in--progress-111C31?style=for-the-badge&logo=github&logoColor=00E5FF" />
+
+</div>
+
+---
+
+## ◈ LEARNING LOG
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20Machine%20Learning-111C31?style=for-the-badge&logo=google-scholar&logoColor=00E5FF" />
+
+**Introduction to Machine Learning**
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20IoT-111C31?style=for-the-badge&logo=google-scholar&logoColor=00E5FF" />
+
+**Introduction to IoT**
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=A-J-A-Y-nath&show_icons=true&hide_border=true&bg_color=0D1526&title_color=00E5FF&icon_color=7C4DFF&text_color=DDEBFF" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-J-A-Y-nath&layout=compact&hide_border=true&bg_color=0D1526&title_color=00E5FF&text_color=DDEBFF" alt="Top languages" />
+
+<br/>
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=A-J-A-Y-nath&hide_border=true&background=0D1526&ring=00E5FF&fire=7C4DFF&currStreakLabel=00E5FF&sideLabels=DDEBFF&currStreakNum=FFFFFF&sideNums=DDEBFF&dates=8FA9C7" alt="Contribution streak" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-J-A-Y-nath&bg_color=0D1526&color=DDEBFF&line=00E5FF&point=7C4DFF&area=true&hide_border=true" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+## ◈ CONNECT
+
+<div align="center">
+
+### Have an interesting project in mind?
+
+I'm open to **internships, full-time opportunities, and collaborative projects**.
+
+<a href="mailto:ajaynath1516@gmail.com"><img src="https://img.shields.io/badge/Let's%20Connect-00D9FF?style=for-the-badge&logo=gmail&logoColor=07111F" /></a>
+
+<br/><br/>
+
+<a href="https://github.com/A-J-A-Y-nath">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/m-s-ajaynath-8481992a2/">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="mailto:ajaynath1516@gmail.com">Email</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BUILD-LEARN-REPEAT-111C31?style=for-the-badge&labelColor=111C31&color=00D9FF" />
+
+<sub>⚡ Powered by curiosity. Designed for the future. (Pikachu approves.)</sub>
 
 </div>
